@@ -4,7 +4,7 @@ Date: 10/06/2022
 Make sure you have the input files from the IEA 10MW RWT and the path is appropriatly set in Run_down_regulator.m.
 They can be found in https://github.com/IEAWindTask37/IEA-10.0-198-RWT
 
-%% Contents ~ Meanings:
+%%Contents ~ Meanings:
 
 Run_down_regulator ~ MATLAB script to initialize parameters and run the Simulink model.
 
